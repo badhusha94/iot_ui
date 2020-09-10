@@ -1,0 +1,10 @@
+.Chart-heading{
+    color: blue;
+    font: bold;
+    text-align: center;
+}
+
+.Chart-container{
+    width: 1200px;
+    height: 600px;
+}

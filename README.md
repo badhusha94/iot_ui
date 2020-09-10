@@ -1,3 +1,27 @@
+Steps to run the iot_ui node.js server with React.js application
+
+Requires: Node js installed in System
+
+1. Clone the repository from badhusha94
+
+2. Run the below command from the folder containing package.json 
+
+### npm install
+
+3. If recharts library still not installed then run the below command:
+
+### npm install recharts
+
+4. Run the below command to start
+
+### npm start
+
+
+
+
+
+----------------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
