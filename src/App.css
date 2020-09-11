@@ -38,7 +38,11 @@
 }
 
 .Title-text{
-  color: blue;
+  color: mediumslateblue;
   font: bold;
   text-align: center;
+}
+
+.Chart-data-container{
+  display: flex;
 }

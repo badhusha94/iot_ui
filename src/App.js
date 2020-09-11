@@ -7,7 +7,7 @@ function App(){
     return(
         <div>
             <h1 className="Title-text">Atria Powers</h1>
-            <TemperatureChart/>
+            <div className="Chart-data-container"><TemperatureChart/></div>
         </div>
     )
 }
